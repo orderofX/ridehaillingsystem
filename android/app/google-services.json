@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "213750194417",
+    "firebase_url": "https://ride-uber.firebaseio.com",
+    "project_id": "ride-uber",
+    "storage_bucket": "ride-uber.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213750194417:android:84eef140c230c224db0950",
+        "android_client_info": {
+          "package_name": "com.samikhae.ride_uber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213750194417-qf177q4t70hk2sua6d2tf9931h1vvvo7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.samikhae.ride_uber",
+            "certificate_hash": "d26c258c10aa44f1290bac499de94bd06970ce7f"
+          }
+        },
+        {
+          "client_id": "213750194417-hni3ndpfqvqr6hfpr344ki46rqsq28fs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAaT-Vl8QDBk-JoxYQ9sG2GIF7Z5S9tm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213750194417-hni3ndpfqvqr6hfpr344ki46rqsq28fs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
